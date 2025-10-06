@@ -1,8 +1,8 @@
 # Basic Information 
 title: Luca Barbato
-position: MRes/Ph.D. Student
+position: MRes/Ph.D. Candidate
 affiliation: London School of Economics (LSE)
-email: luca (at) example.com  # replace if you'd like your real email public
+email: l.barbato1 at lse.ac.uk  # replace if you'd like your real email public
 
 # Search Engine Optimization (SEO)
 keywords: organizational economics, personnel economics, labour economics, applied microeconomics, LSE
@@ -12,10 +12,10 @@ canonical: https://barbatoluca.github.io/
 # Links 
 # Delete any you don't want to show.
 # google_scholar: https://scholar.google.com/   # add if/when you have one
-cv_link: assets/files/Luca_Barbato_CV.pdf
-github_link: https://github.com/barbatoluca
+# cv_link: assets/files/Luca_Barbato_CV.pdf
+# github_link: https://github.com/barbatoluca
 linkedin: https://www.linkedin.com/in/luca-barbato-26bb69189/
-# twitter: https://twitter.com/                 # remove if unused
+twitter: https://x.com/l_barbato_econ             # remove if unused
 
 # Images 
 avatar: ./assets/img/avatar.jpg
