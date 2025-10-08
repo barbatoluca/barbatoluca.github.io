@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I am a third-year MRes/Ph.D. student in Economics and Management at LSE. I am an applied microeconomist interested in Personnel, Labour and Organisational Economics.
+I collaborate with firms and non-profits on projects and pilots for research and business purposes. Please reach out if you would like to chat!
 
 ## Research Interests
 
