@@ -15,7 +15,8 @@ canonical: https://barbatoluca.github.io/
 # cv_link: assets/files/Luca_Barbato_CV.pdf
 # github_link: https://github.com/barbatoluca
 linkedin: https://www.linkedin.com/in/luca-barbato-26bb69189/
-twitter: https://x.com/l_barbato_econ             # remove if unused
+twitter: https://x.com/l_barbato_econ # remove if unused
+website: https://www.lse.ac.uk/people/luca-barbato
 
 # Images 
 avatar: ./assets/img/avatar.jpg
